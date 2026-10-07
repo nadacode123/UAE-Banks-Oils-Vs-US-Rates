@@ -1,0 +1,6 @@
+Ticker,Brent oil,Dubai Islamic Bank,Emirates NBD,US 10Y yield,Bank avg
+Brent oil,1.0,-0.15,-0.12,0.23,-0.15
+Dubai Islamic Bank,-0.15,1.0,0.5,-0.11,0.82
+Emirates NBD,-0.12,0.5,1.0,-0.13,0.91
+US 10Y yield,0.23,-0.11,-0.13,1.0,-0.14
+Bank avg,-0.15,0.82,0.91,-0.14,1.0
